@@ -126,8 +126,13 @@ https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
 ```
 - Leave this file in your *Downloads* folder for now.
 
-### !! DO THE FOLLOWING STEP ONLY IF:
-**You didn't Install GitHub Desktop and WebUI folder from earler.**
+<br>
+
+### !! DO THIS FOLLOWING STEP ONLY IF:
+
+**<details><summary>You didn't Install GitHub Desktop and WebUI folder from earlier.<br>
+ Otherwise; proceed onward and disregard this. </summary>**
+
 - You can skip this step if you did the GitHub Desktop Pre-Req above. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#optional-pre-req---just-makes-things-slightly-easier-later)</sup>
 - Download the Krita Stable Diffusion WebUI Local Interface here:
 ```
@@ -135,8 +140,11 @@ https://codeload.github.com/imperator-maximus/stable-diffusion-webui/zip/refs/he
 ```
 - Extract the *stable-diffusion-webui* folder from the downloaded zip file into a directory of your choice.
 - Make note of this directory.
+</details>
+<br>
 
-**Move the *model.ckpt* and the *GFPGANV1.3.pth* files to the *stable-diffusion-webui* directory:**
+**Once you have the *stable-diffusion-webui* folder directory established:**
+- Move the *model.ckpt* and the *GFPGANV1.3.pth* files to the *stable-diffusion-webui* directory:
 - If you installed from GitHub Desktop at the beginning, that folder should be in *Documents > GitHub > stable-diffusion-webui*.
 - If you downloaded the zip file, it's where you extracted the folder to.
  
