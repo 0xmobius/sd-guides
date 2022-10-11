@@ -1,4 +1,4 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ctrlxcvz/sd-guides?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ctrlxcvz/sd-guides?style=plastic) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/0xmobius/sd-guides?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/0xmobius/sd-guides?style=plastic) 
 
 <h2> KRITA + STABLE DIFFUSION PC INSTALLATION GUIDE <br> 
 FOR WINDOWS 11 & NVIDIA GPUs </h2> 
@@ -24,7 +24,7 @@ FOR WINDOWS 11 & NVIDIA GPUs </h2>
 
  
 ### Optional Pre-Req - Just makes things slightly easier later:
-- You can skip this step entirely and manually download the required zip file later if you prefer. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-do-the-following-step-only-if)</sup>
+- You can skip this step entirely and manually download the required zip file later if you prefer. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-do-this-following-step-only-if)</sup>
 - I recommend creating a GitHub account, star the repository below (or at least bookmark it in your browser), and install GitHub Desktop:
 ```
 https://github.com/imperator-maximus/stable-diffusion-webui
@@ -242,6 +242,7 @@ I.E. > *You can input an image of a landscape > erase a part of the sky > select
 
 >REMINDER: You need to start *api.bat* and leave the CMD Prompt window open as long as you are using Krita. <br>
 >Be sure to close both Krita and the CMD Prompt window when you are done with both.
+
 <br>
 
 ##### ==== LOCAL WEBUI EXTRAS ====
